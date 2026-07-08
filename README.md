@@ -63,7 +63,7 @@ The miRNA network highlights important regulatory relationships between signific
 
 ## 🧪 Molecular Docking
 The docking analysis demonstrates the interaction of Ginkgo semen compounds with important protein targets.
-![Docking Analysis](docking_analysis.png)
+![Docking Analysis](molecular_docking.png)
 
 ## 📂 Repository Structure
 📁 fyp-ginkgo-skin-cancer
@@ -82,8 +82,11 @@ The docking analysis demonstrates the interaction of Ginkgo semen compounds with
 
 - ## 📚 Citation
 BS Bioinformatics Final Year Project
+
 COMSATS University Islamabad
+
 Department of Biosciences
+
 2024
 
 ## 📄 Full Thesis
