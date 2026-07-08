@@ -15,20 +15,28 @@ The study combines network pharmacology, pathway enrichment analysis, molecular 
 - ## 🔬 Research Workflow
 PubChem
 ⬇
+
 GeneCards
 ⬇
+
 STRING
 ⬇
+
 DAVID
 ⬇
+
 KEGG
 ⬇
+
 Cytoscape
 ⬇
+
 Discovery Studio
 ⬇
+
 AutoDock
 ⬇
+
 PyMOL
 
 ## 🛠️ Tools & Databases
