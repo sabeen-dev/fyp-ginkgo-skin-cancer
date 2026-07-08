@@ -59,11 +59,11 @@ KEGG enrichment analysis identified several cancer-related pathways associated w
 
 ## 🧬 miRNA–Gene Interaction Network
 The miRNA network highlights important regulatory relationships between significant genes and their associated microRNAs.
-![miRNA Network](mirna-network.png)
+![miRNA Network](mirna_network.png)
 
 ## 🧪 Molecular Docking
 The docking analysis demonstrates the interaction of Ginkgo semen compounds with important protein targets.
-![Docking Analysis](docking-analysis.png)
+![Docking Analysis](docking_analysis.png)
 
 ## 📂 Repository Structure
 📁 fyp-ginkgo-skin-cancer
